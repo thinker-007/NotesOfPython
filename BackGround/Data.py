@@ -3,10 +3,6 @@
     代码(code):一套转化信息的规则系统，代即代替，码即编码
     print abosolute value of integer
 '''
-a=-2
-if a >= 0:
-    print(a)   #python代码，将a转化成100，注意缩进一致(建议用tab键缩进4字符)，或者运行错误
-else:
     print(-a)
 ''''''''''''''''''
 
